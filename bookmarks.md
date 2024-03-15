@@ -1,2 +1,3 @@
 - [gcloud](https://cloud.google.com/)
 - [heroku](https://herokuapp.com/)
+- [resume](https://raw.githubusercontent.com/danieljpost/resume-json/master/resume.json)
